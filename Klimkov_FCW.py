@@ -1,7 +1,6 @@
 from tkinter import *  # Библиотека для создания графического интерфейса программы с виджетами.
 from tkinter import ttk
 
-from PIL.ImageOps import expand
 
 
 def theme():
